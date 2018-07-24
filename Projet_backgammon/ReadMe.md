@@ -11,5 +11,6 @@ Côté client :
 	•	La récupération des entrées de l’utilisateur.
 
 Côté serveur :
+
 	•	La gestion des règles.
 	•	L’écoute des clients.
