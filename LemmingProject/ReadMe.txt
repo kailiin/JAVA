@@ -25,3 +25,9 @@ G : lava
 S : entry
 E : exit
   : void
+
+##
+
+![lemming_lv1](https://user-images.githubusercontent.com/41614139/43165399-1fc9557c-8f94-11e8-97a3-3801ed562872.png)
+
+![lemming_lv2](https://user-images.githubusercontent.com/41614139/43165400-1fe345ae-8f94-11e8-90b6-296239f3beaf.png)
