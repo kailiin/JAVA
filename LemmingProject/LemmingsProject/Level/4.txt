@@ -1,0 +1,13 @@
+         B  I                 
+    BB   B  I                 
+  E   B     I             X   
+BBBBBBBBBBtBB             XX  
+IIIIIIIIIIIII             XXX 
+                         XXX  
+S               XX   BBBBBBBTB
+              X  BIIIIIIIII   
+              X  B            
+IBBBBBBBBBBBBBB  B            
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
