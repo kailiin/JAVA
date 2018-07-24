@@ -1,8 +1,10 @@
-#Lemmings
+# Lemmings
 This work is carried out by LIN Kai & MAAOUYA Soufiane
+
 UPEC - L3 Info - 2016/2017
 
 How to play?
+
 Select the action by pressing 0 to 7 then click on the Lemming you want to change & Follow the console
 
 Actions
