@@ -1,0 +1,4 @@
+7
+Baloon B1 2 13 30
+JetPlane J1 23 54 42 
+Helicopter H1 654 23 30
